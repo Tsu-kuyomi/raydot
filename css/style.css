@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #6222CC;
-    --secondary: #FBA504;
-    --light: #F6F4F9;
-    --dark: #04000B;
+    --primary: #0b3b49;
+    --secondary: #f105cb;
+    --light: #fff3fd;
+    --dark: #00262f;
 }
 
 
@@ -125,7 +125,7 @@ h6,
 }
 
 .navbar-light .navbar-brand img {
-    max-height: 60px;
+    max-height: 30px;
     transition: .5s;
 }
 
@@ -359,14 +359,14 @@ h6,
     align-items: center;
     justify-content: center;
     color: var(--light);
-    background: url(../img/blob-primary.png) center center no-repeat;
+    background: url(../img/Asset\ 2blob1.png) center center no-repeat;
     background-size: contain;
     transition: .5s;
 }
 
 .service-item:hover .service-icon {
     color: var(--dark);
-    background: url(../img/blob-secondary.png) center center no-repeat;
+    background: url(../img/Asset\ 3blob2.png) center center no-repeat;
     background-size: contain;
 }
 
